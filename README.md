@@ -1,3 +1,6 @@
-# Portfolio
-Collection of papers, projects, and presentations as stated on my resume to help reviewers' get an idea of my work.
-
+# Welcome to my portfolio!
+What's in here?
+  This is a collection of my papers, projects, and presentations throughout my career.
+  
+  ## Undergraduate Honors Thesis
+    this is
