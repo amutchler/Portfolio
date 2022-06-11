@@ -10,7 +10,7 @@ The Deep Underground Neutrino Experiment (DUNE) is a new cutting-edge experiment
 The presentation given as defense of my honors thesis.
 ## Poster for the APS Four Corners Annual Conference
 This is the poster I created and presented at Embry-Riddle Aeronautical University for the fall 2019 APS 4CS conference. It details my research on solid state muon detectors for DUNE's neutrino beam monitoring. 
-## Note on Homotopy Groups for $n>1$ of $S^n$
+## Note on Homotopy Groups for n-Sphere
 Note written as finial project for my Topology, Graphs, and Knots math course, August 2019. It provides a brief overview of homotopy and the homotopy groups for the (2, 3, 4, 5, 6)-sphere.
 ## Frank-Herz Lab Report
 Lab report on the nobel winning Frank-Herz experiment done in my physics lab course fall 2018. In this lab we demonstrate that atoms (here argon was used) have quantized (discrete) energy levels.
