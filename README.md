@@ -2,6 +2,11 @@
 What's in here?
   This is a collection of my papers, projects, and presentations throughout my career.
   
+  ## Masters Thesis
+  A Gentle Introduction to Topological Quantum Field Theory and Mirror Symmetry is the final dissertation project of my MSc degree at Imperial College London. The project gives a comprehensive review of quantum geometry, that is the special symmetry known as mirror symmetry, as well as a rigorous look at topological quantum field theories. 
+  ### Abstract
+  This project presents a review of the work originally pioneered by E. Witten on topological quantum field theories and how mirror symmetry arises in them. A discussion of differential geometry leads into a rigorous, in depth look at what topological quantum field theories are. Both the mathematical and physical sides are discussed. The second half of this project reviews how the N = (2, 2) supersymmetry nonlinear σ-model is topological in nature and its connection to mirror symmetry.
+  
   ## Honors Thesis
   This is my undergraduate honors thesis as submitted in partial fulfillment of my honors degree from the University of Colorado Boulder. It is an in-depth look at my resarch under the guiadance of Professor Marino on electron drift properties and their effect on track reconstruction efficiency for the Deep Underground Neutrino Experiment.
   ### Lay Summary
